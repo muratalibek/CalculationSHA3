@@ -7,3 +7,7 @@
 4. Join sorted hashes without any separator.
 5. Concatenate resulted string with your e-mail in lowercase.
 6. Find the SHA3-256 of the result string.
+-------------------------------------------------------------------
+
+Result:
+a8d4293d02f10cf275ac22837581a9b71c23eb0e02dfb8565bcb6845cc043a5b
