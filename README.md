@@ -1,4 +1,4 @@
-# Task2
+# sha3
 
 -------------------------------------------------------------------
 1. Calculate SHA3-256 for every file from archive.
